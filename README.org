@@ -1,0 +1,10 @@
+* com.clearly-useful.protocols
+
+simple clojure style protocols for common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jaeschliman/com.clearly-useful.protocols.git   |
+| commit  | afc7a59  |
+| systems | com.clearly-useful.protocols |
+|---------+-------------------------------------------|
+
