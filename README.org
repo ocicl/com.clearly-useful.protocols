@@ -8,4 +8,4 @@ simple clojure style protocols for common lisp
 | systems | com.clearly-useful.protocols |
 |---------+-------------------------------------------|
 
- 
+  
